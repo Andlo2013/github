@@ -18,5 +18,3 @@
 " VALUES ('solinteg','47a7aa06274a88c7217954257329bb6e',1,1,1); ";
 
 
-INSERT INTO usuario (username,password,eplcod,tipusr, estreg) 
-VALUES ('andres','1f32aa4c9a1d2ea010adcf2348166a04',1,1,1); 
